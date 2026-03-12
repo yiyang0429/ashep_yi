@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">A stylized placeholder portrait for the principal investigator photo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1830"/>
+      <stop offset="100%" stop-color="#12294f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="48" fill="url(#bg)"/>
+  <circle cx="300" cy="225" r="110" fill="rgba(125,211,252,0.14)"/>
+  <circle cx="300" cy="225" r="92" fill="url(#accent)" opacity="0.9"/>
+  <path d="M170 470c22-74 80-118 130-118s108 44 130 118" fill="none" stroke="#dbeafe" stroke-width="42" stroke-linecap="round"/>
+  <text x="300" y="532" fill="#dbeafe" font-family="Arial, Helvetica, sans-serif" font-size="34" text-anchor="middle">Add PI Photo</text>
+</svg>

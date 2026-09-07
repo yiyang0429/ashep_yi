@@ -137,7 +137,8 @@ window.SITE_DATA = {
     {
       name: 'STAR',
       subtitle: 'Relativistic heavy-ion physics',
-      description: 'Describe your group contribution here: analysis topics, detector work, software development, operations, or student projects.',
+      // description: 'Describe your group contribution here: analysis topics, detector work, software development, operations, or student projects.',
+      description: '(following texts are gerenated by ChatGPT for testing) The STAR experiment at Brookhaven National Laboratory (BNL) is a large international project that studies the basic properties of matter. STAR, which stands for Solenoidal Tracker at RHIC, is one of the major experiments at the Relativistic Heavy Ion Collider (RHIC).',
       role: 'Example role: data analysis, detector performance, and student supervision.',
       status: 'Active'
     },
